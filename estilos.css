@@ -1,0 +1,120 @@
+/* Minhas cores */
+:root{
+--fundo:black;
+
+}
+
+.body-container{
+   
+    
+
+    color:burlywood;
+    width: 100%;                     
+    margin: 0;  
+    font-size: px
+}
+ 
+ 
+p {
+    font-size: px;
+    
+}
+.gcontainer{
+    
+    
+    color: darkred;
+        display:flex;
+    align-itens:left;
+}
+h2 { 
+font-size:30px;
+ text-align: center;
+    
+
+}
+
+h1, h6{
+    font-size: 50px;
+    text-align: center;
+    padding: 100px ;
+    margin: -35px;
+    border: ;
+}
+
+h1 {
+background: rgb(163,25,42);
+background: linear-gradient(90deg, rgba(163,25,42,1) 7%, rgba(236,78,93,1) 19%, rgba(251,2,19,1) 37%, rgba(243,4,22,1) 59%, rgba(235,45,63,1) 79%, rgba(193,19,37,1) 86%);
+    color: black;
+    margin-left: px;
+    padding: 35px 50px;
+  
+}
+
+ul.topnav {
+    list-style-type: none;
+    margin: -10px;
+    width: 1366px;
+    padding: 0;
+    overflow: hidden;
+    background-color: crimson;
+}
+
+ul.topnav li {float: left;}
+
+
+ul.topnav li a {
+    display: inline-block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 15px 78px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 30px;
+}
+
+ul.topnav li a:hover {background-color: #111;}
+
+
+ul.topnav li.icon {display: none;}
+
+.topnav a:hover {
+ background: rgb(102,188,113);
+background: linear-gradient(0deg, rgba(102,188,113,1) 0%, rgba(50,0,252,1) 94%, rgba(0,225,252,1) 100%, rgba(34,193,195,1) 100%, rgba(160,188,109,1) 100%, rgba(134,189,126,1) 100%);
+  color: black;
+}
+
+
+.topnav a.active {
+ background: rgb(102,188,113);
+background: linear-gradient(0deg, rgba(102,188,113,1) 0%, rgba(50,0,252,1) 94%, rgba(0,225,252,1) 100%, rgba(34,193,195,1) 100%, rgba(160,188,109,1) 100%, rgba(134,189,126,1) 100%);
+  color:black;
+}
+
+
+img{
+    float:let;
+ display:inline-f;
+  margin-left:auo;
+  margin-right:aut;
+  width: 5.9%;
+    
+
+button{
+    margin:54 ;
+    display: bloc;
+    width:24%;
+    border: none;
+    padding: 30px 54px;
+    background-color: orangered;
+    border-radius: 2px;
+    font-size: large;
+}
+button:hover{
+    opacity: .8;
+}
+h5{
+   padding:0px; 
+  font-size: 30px;  
+    
+}
+ 
